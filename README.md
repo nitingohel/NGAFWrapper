@@ -1,6 +1,6 @@
 # NGAFWrapper
 Use ApiManager NGAFWrapper class to call an API and get its responce callback using BLOCK in Objective C language of iOS application code.
-That Wrapper class created by use of [AFNetworkign](https://github.com/AFNetworking/AFNetworking) class so user must be have AFNetworkign libray class in project.
+That Wrapper class created by use of [AFNetworking](https://github.com/AFNetworking/AFNetworking) class so user must be have AFNetworking libray class in project.
 
 # How To Use
 
